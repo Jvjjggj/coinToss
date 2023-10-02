@@ -1,0 +1,41 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 40px;
+  height: 100vh;
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+}
+.card {
+  background-color: #ffff;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.para {
+  text-align: center;
+}
+.img {
+  height: 15rem;
+}
+.btn {
+  width: 100px;
+}
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.score {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hideDiv {
+  display: flex;
+  justify-content: space-evenly;
+}
+.scorePara {
+  padding: 10px;
+}
